@@ -1,1 +1,7 @@
-
+requests
+ bs4
+nltk
+collections
+re
+matplotlib
+wordcloud
