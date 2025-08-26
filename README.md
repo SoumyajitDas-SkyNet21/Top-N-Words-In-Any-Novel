@@ -59,6 +59,12 @@
 
 <img src="/img/Top-10-words in The Adventures of Sherlock Holmes.png"/>
 
+<img src="/img/Top-10-words in Meditations By Marcus Aurelius.png"/>
+
+<img src="/img/Top-10-words-Moby-Dick.png"/>
+
+
+
 ### Credits 
 - The Project Gutenberg
 
