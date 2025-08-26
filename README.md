@@ -55,8 +55,9 @@
 
 
 
-### 
+### Word Cloud of Different Novels 
 
+<img src="/img/Top-10-words in The Adventures of Sherlock Holmes.png"/>
 
 ### Credits 
 - The Project Gutenberg
