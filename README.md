@@ -37,6 +37,16 @@
 - matplotlib
 - wordcloud
 
+### Overview of Process 
+- Requests and Encode the text
+- Extracting the Text
+- Create a Beautifulsoup object and get the text
+- Tokenize the Text
+- Convert words to lowercase
+- Loading the Stop-Words
+- Remove Stop Words from text
+- Count Frequency Of Words
+- Creating a Word Cloud
 
 
 
