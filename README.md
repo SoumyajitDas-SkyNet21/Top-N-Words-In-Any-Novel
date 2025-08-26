@@ -2,7 +2,7 @@
 
 ### Project Objective 
 * Most Frequnt Words in a novel
-* 
+
 ### Technology Used 
 
 * Natural Language Processing(NLP)
@@ -12,6 +12,11 @@
 * Scrape any novel Moby from the website Project Gutenberg (which contains a large corpus of books) using the Python requests package.
 * Extract words from this web data using BeautifulSoup before analyzing the distribution of words using the Natural Language ToolKit (nltk) and Counter
 * Visualizing Top-Ten Words using Wordcloud
+
+### Resource Used -
+
+- E-Book Page HTML Page Link
+
 
 ### Steps to perform
 
@@ -48,6 +53,13 @@
 - Count Frequency Of Words
 - Creating a Word Cloud
 
+
+
+### 
+
+
+### Credits 
+- The Project Gutenberg
 
 
 
